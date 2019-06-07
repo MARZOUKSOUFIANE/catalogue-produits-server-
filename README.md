@@ -10,4 +10,4 @@ les technologie utilisees dans cette application sont:
  ### JPA Hibernate
  ### Un web service Rest basé sur restController
 
-##le coté client de l'application qui utilise le web service est cree avec le framework Angular (https://github.com/MARZOUKSOUFIANE/catalogue-produits-Client-)
+## le coté client de l'application qui utilise le web service est cree avec le framework Angular (https://github.com/MARZOUKSOUFIANE/catalogue-produits-Client-)
